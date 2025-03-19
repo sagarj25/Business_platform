@@ -1,0 +1,22 @@
+Module 1: Business Profiles & Promotional Tools 
+
+Responsibilities
+
+Frontend Development:
+Web:
+Develop a responsive business profile creation/editing interface with image handling capabilities (e.g., uploading and displaying business images such as logos, storefronts).
+Design a promotional campaign page builder with fields for images, offers, and call-to-action buttons, with an option to include images related to the promotions.
+Build a dashboard page to display an overview of created profiles, promotions, and uploaded images.
+
+Backend Development:
+Business Data Management:
+Implement CRUD operations for business profiles, including image uploads and management (e.g., storing images in cloud storage or as base64).
+Ensure profile and promotion data, including images, are stored securely in the database.
+
+Promotional Campaign APIs:
+Develop APIs to fetch, update, and delete promotional campaign data, including promotional images, for web and mobile clients.
+
+SEO API Integration :
+Integrate an SEO API to fetch data on the business's SEO rankings or related metrics. Possible APIs to explore:
+Google API (Google Search Console or Google My Business): Use this to fetch SEO ranking data, backlinks, or performance data of business profiles on Google.
+Third-Party SEO APIs (e.g., SEMrush, Ahrefs, Moz): For more detailed SEO reports.
